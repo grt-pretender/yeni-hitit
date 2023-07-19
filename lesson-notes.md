@@ -16,3 +16,4 @@
 
 ## Lesson 4
 ### Grammar
+- past tense -ti/di
